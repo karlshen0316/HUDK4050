@@ -2,7 +2,7 @@
                     -Karl Shen
 ### 1.[Reflective Essay](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fkarlshen0316%2FHUDK4050%2Fmain%2FReflective%2520essay.docx&wdOrigin=BROWSELINK)
 ### 2. 8 ICE
-     [ICE 0 ](https://github.com/karlshen0316/HUDK4050/blob/main/ICE0.ipynb)
+[ICE 0](https://github.com/karlshen0316/HUDK4050/blob/main/ICE0.ipynb)
      [ICE 1 ](https://github.com/karlshen0316/HUDK4050/blob/main/_ICE1.ipynb)
      [ICE 2 ](https://github.com/karlshen0316/HUDK4050/blob/main/ICE2.ipynb)
      [ICE 3 ](https://github.com/karlshen0316/HUDK4050/blob/main/ICE3%20.ipynb)
